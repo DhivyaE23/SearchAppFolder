@@ -1,1 +1,1 @@
-"# PyQt5 Search App" 
+"PyQt5 Search App" 
